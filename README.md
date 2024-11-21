@@ -1,0 +1,2 @@
+# weirdcode
+weirdest code
